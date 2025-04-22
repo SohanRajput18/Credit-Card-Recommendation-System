@@ -1,7 +1,5 @@
 # 💳 Credit Card Recommendation System
 
-![credit-card-banner](link-to-your-image-if-any)
-
 ---
 
 ## 🧠 Overview
